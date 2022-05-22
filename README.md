@@ -1,9 +1,4 @@
-### Hi there 👋
 
+![Canaleal's github stats](https://github-readme-stats.vercel.app/api?username=canaleal&show_icons=true&hide_border=true)
 
-**canaleal/canaleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=canaleal&show_icons=true)
-
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=canaleal&theme=blue-green)
+<img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canaleal&layout=compact&langs_count=8"/>
