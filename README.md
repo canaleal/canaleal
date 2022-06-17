@@ -1,7 +1,19 @@
 
-![Canaleal's github stats](https://github-readme-stats.vercel.app/api?username=canaleal&&count_private=true&show_icons=true&hide_title=true&theme=tokyonight)
-<!-- <img width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canaleal&layout=compact&langs_count=8&theme=tokyonight"/> -->
+<h3 align="center">Hey there! I'm Alex</h3>
+<p align="center">
+  <a href="https://alexcanalesportfolio.netlify.app/">Website</a> •
+  <a href="www.linkedin.com/in/alex-canales">Linkedin</a>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=canaleal&show_icons=true&hide_title=true&theme=tokyonight" />
+---
+I'm a fullstack developer interested in machine learning development and data science and advocating for building open and inclusive developer communities. 
+
+
+
+
+
+![Canaleal's GitHub stats](https://github-readme-stats.vercel.app/api?username=canaleal&count_private=true&theme=material-palenight)      |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=canaleal&theme=material-palenight)
+:-------------------------:|:-------------------------:
+
 
 ![snake gif](https://github.com/canaleal/canaleal/blob/output/github-contribution-grid-snake-dark.svg)
