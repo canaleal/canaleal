@@ -1,8 +1,7 @@
 
 <h3 align="center">Hey there! I'm Alex</h3>
 <p align="center">
-  <a href="https://alexcanalesportfolio.netlify.app/">Website</a> •
-  <a href="www.linkedin.com/in/alex-canales">Linkedin</a>
+  <a href="https://alexcanalesportfolio.netlify.app/">Website</a>
 </p>
 
 ---
