@@ -11,7 +11,7 @@ I'm a fullstack developer interested in machine learning development and data sc
 
 
 
-![Canaleal's GitHub stats](https://github-readme-stats.vercel.app/api?username=canaleal&count_private=true&theme=tokyonight) |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=canaleal&theme=tokyonight)
+![Canaleal's GitHub stats](https://github-readme-stats.vercel.app/api?username=canaleal&include_all_commits=true&count_private=true&theme=tokyonight) |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=canaleal&theme=tokyonight)
 :-------------------------:|:-------------------------:
 
 
