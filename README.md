@@ -11,10 +11,12 @@ I'm a fullstack developer interested in machine learning development and data sc
 | Stats | Continuous |
 | ----------- | ----------- |
 | ![Canaleal's GitHub stats](https://github-readme-stats.vercel.app/api?username=canaleal&include_all_commits=true&count_private=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=canaleal&theme=tokyonight) |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canaleal&hide=jupyter%20notebook&langs_count=16&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=canaleal&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canaleal&hide=jupyter%20notebook&langs_count=16&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Canaleal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=canaleal&layout=compact&theme=tokyonight)](https://github.com/canaleal/github-readme-stats) |
 
 
- [![wakatime](https://wakatime.com/badge/user/0f755351-8a08-46e6-908f-bba08f33e728.svg)](https://wakatime.com/@0f755351-8a08-46e6-908f-bba08f33e728)
+
+
+ [![wakatime](https://wakatime.com/badge/user/0f755351-8a08-46e6-908f-bba08f33e728.svg)](https://wakatime.com/@0f755351-8a08-46e6-908f-bba08f33e728&v=2)
 
 
 
