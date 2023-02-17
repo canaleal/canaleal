@@ -3,8 +3,8 @@
 <div align="center">
 
   <h1>Alex</h1>
-  <h4>Software Developer  •  Machine Learning Enthusiast</h4>
-  <a href="https://alexcanalesportfolio.netlify.app/">Website</a>
+  <h4>Full Stack • Machine Learning • Data Science Enthusiast</h4>
+  <a href="https://alexcanalesportfolio.netlify.app/">Website</a> • <a href="https://www.linkedin.com/in/alex-canales/">Linkedin</a>
 
 </div>
 
