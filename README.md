@@ -30,7 +30,10 @@ Driven by curiosity, I am always exploring the latest advancements in AI, seekin
 
 <h1 id="introduction">Statistics</h1>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=canaleal&include_all_commits=true&show=discussions_answered&hide=stars&&show_icons=true&count_private=true&hide_border=true&title_color=4a5ef3&icon_color=4a5ef3&text_color=c9d1d9&bg_color=0d1117" alt="Alex github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canaleal&layout=compact&hide=python&langs_count=6&hide_border=true&title_color=4a5ef3&icon_color=17141d&text_color=c9d1d9&bg_color=0d1117" />
+ 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=canaleal&layout=compact&hide_border=true&langs_count=15&title_color=4a5ef3&icon_color=4a5ef3&text_color=c9d1d9&bg_color=0d1117" alt="Alex github stats" /> 
+
+  
+
 </div>
  
