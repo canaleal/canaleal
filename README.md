@@ -4,7 +4,8 @@
 
   <h1>Alex</h1>
   <h4>Full Stack • Machine Learning • Devops</h4>
-  <a href="https://alexcanalesportfolio.netlify.app/">Website</a> • <a href="https://www.linkedin.com/in/alex-canales/">Linkedin</a>
+  
+  <a href="https://alexcanales.vercel.app/">Website</a> • <a href="https://www.linkedin.com/in/alex-canales/">Linkedin</a>
 
 </div>
 
