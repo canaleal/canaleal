@@ -3,7 +3,7 @@
 <div align="center">
 
   <h1>Alex</h1>
-  <h4>Full Stack • Machine Learning • Devops</h4>
+  <p>Full Stack • Machine Learning • Devops</p>
   
   <a href="https://alexcanales.vercel.app/">Website</a> • <a href="https://www.linkedin.com/in/alex-canales/">Linkedin</a>
 
@@ -30,11 +30,5 @@ Driven by curiosity, I am always exploring the latest advancements in AI, seekin
 
 
 <h1 id="introduction">Statistics</h1>
-<div align="center">  
- 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=canaleal&layout=compact&hide_border=true&langs_count=15&title_color=4a5ef3&icon_color=4a5ef3&text_color=c9d1d9&bg_color=0d1117" alt="Alex github stats" /> 
 
-  
-
-</div>
- 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=canaleal&layout=compact&hide_border=true&langs_count=15&title_color=4a5ef3&icon_color=4a5ef3&text_color=c9d1d9&bg_color=0d1117" alt="Alex github stats" /> 
