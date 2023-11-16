@@ -31,6 +31,4 @@ Driven by curiosity, I am always exploring the latest advancements in AI, seekin
 
 <h1 id="introduction">Statistics</h1>
 
-![Metrics](https://metrics.lecoq.io/canaleal?template=classic&base.indepth=true&repositories.forks=true&isocalendar=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York)
-
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=canaleal&layout=compact&hide_border=true&langs_count=15&title_color=4a5ef3&icon_color=4a5ef3&text_color=c9d1d9&bg_color=0d1117" alt="Alex github stats" /> 
