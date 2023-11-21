@@ -31,4 +31,6 @@ Driven by curiosity, I am always exploring the latest advancements in AI, seekin
 
 <h1 id="introduction">Statistics</h1>
 
+[![An image of @canaleal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/canaleal)](https://holopin.io/@canaleal)
+
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=canaleal&layout=compact&hide_border=true&langs_count=15&title_color=4a5ef3&icon_color=4a5ef3&text_color=c9d1d9&bg_color=0d1117" alt="Alex github stats" /> 
