@@ -1,12 +1,8 @@
 
 
 <div align="center">
-
   <h1>Alex</h1>
   <p>Full Stack • Machine Learning • Devops</p>
-  
-  <a href="https://alexcanales.vercel.app/">Website</a> • <a href="https://www.linkedin.com/in/alex-canales/">Linkedin</a>
-
 </div>
 
 <h1 id="introduction">Introduction</h1>
