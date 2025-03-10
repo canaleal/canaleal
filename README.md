@@ -7,8 +7,7 @@
 
 <h1 id="introduction">Introduction</h1>
 
-Full-stack developer with a profound interest in Machine Learning and Data Science.
-Driven by curiosity, I am always exploring the latest advancements in AI, seeking out new tools and techniques that can refine my problem-solving skills.
+Full-stack dev, AI explorer, gym rat, and photography enthusiast—always building, lifting, and capturing moments!
 
 <div align="center" id="technologies">
 
