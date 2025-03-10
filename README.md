@@ -7,7 +7,7 @@
 
 <h1 id="introduction">Introduction</h1>
 
-Full-stack dev, AI explorer, gym rat, and photography enthusiast—always building, lifting, and capturing moments!
+Full-stack developer and open-source contributor with a passion for building innovative solutions. Outside of coding, I enjoy photography and staying active at the gym, always striving for growth in both tech and life. 
 
 <div align="center" id="technologies">
 
