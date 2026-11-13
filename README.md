@@ -1,9 +1,11 @@
 <div align="center">
   <h1>Alex</h1>
-  <p>Full Stack • React • C# / .NET • DevOps</p>
+  <p>Full Stack • React • C# / .NET • DevOps • 3D Printing</p>
+
+  [![MakerWorld](https://img.shields.io/badge/MakerWorld-@canaleal-000?logo=bambulab&logoColor=00AE42)](https://makerworld.com/en/@canaleal)
 </div>
 
-<h1 id="introduction">Introduction</h1>
+<h2 id="introduction">Introduction</h2>
 
 Full-stack developer and open-source contributor focused on building modern web applications with React and .NET. I work across the stack, from responsive front ends to C# APIs backed by Microsoft SQL Server, and ship them in Docker containers.
 
@@ -20,4 +22,36 @@ Full-stack developer and open-source contributor focused on building modern web 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=github-actions&logoColor=2088FF)](#)
 [![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=F05032)](#)
 
+</div>
+
+<h2 id="makerworld">3D Models on MakerWorld</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://makerworld.com/en/@canaleal">
+        <img src="https://makerworld.bblmw.com/makerworld/model/US9364a3bc5dfa9d/design/e6f6153992e7979b.png?x-oss-process=image/resize,w_1000/format,webp" width="280" alt="UNSC Paris"><br>
+        <sub><b>UNSC Paris</b><br>Halo • 1:8000</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://makerworld.com/en/@canaleal">
+        <img src="https://makerworld.bblmw.com/makerworld/model/US4486c074e89347/design/4d0449160ec23c68.png?x-oss-process=image/resize,w_1000/format,webp" width="280" alt="UNSC Hillsborough"><br>
+        <sub><b>UNSC Hillsborough</b><br>Halo • 1:8000</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://makerworld.com/en/@canaleal">
+        <img src="https://makerworld.bblmw.com/makerworld/model/US75b40f1adba3ed/design/125139191f2c285e.png?x-oss-process=image/resize,w_1000/format,webp" width="280" alt="UNSC Strident"><br>
+        <sub><b>UNSC Strident</b><br>Halo • 1:8000</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+**[Browse all my models on MakerWorld →](https://makerworld.com/en/@canaleal)**
+
+</div>
 </div>
