@@ -36,18 +36,7 @@ Full-stack developer and open-source contributor focused on building modern web 
         <sub><b>UNSC Paris</b><br>Halo • 1:8000</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://makerworld.com/en/@canaleal">
-        <img src="https://makerworld.bblmw.com/makerworld/model/US4486c074e89347/design/4d0449160ec23c68.png?x-oss-process=image/resize,w_1000/format,webp" width="280" alt="UNSC Hillsborough"><br>
-        <sub><b>UNSC Hillsborough</b><br>Halo • 1:8000</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://makerworld.com/en/@canaleal">
-        <img src="https://makerworld.bblmw.com/makerworld/model/US75b40f1adba3ed/design/125139191f2c285e.png?x-oss-process=image/resize,w_1000/format,webp" width="280" alt="UNSC Strident"><br>
-        <sub><b>UNSC Strident</b><br>Halo • 1:8000</sub>
-      </a>
-    </td>
+   
   </tr>
 </table>
 
